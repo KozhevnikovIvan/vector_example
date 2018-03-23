@@ -5,6 +5,7 @@
 
 vector_t::vector_t()
 {
+	//af
 }
 
 vector_t::vector_t(vector_t const & other)
